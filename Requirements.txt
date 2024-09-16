@@ -1,0 +1,56 @@
+Home:
+  User should be able to see a simple clear map of the resturant
+  Use touch to interface with tablet
+  User should be dierected to drinks screen after clicking on desisired table
+
+Drinks:
+  List of drinks must be displayed
+  User should be able to customize drinks 
+  Continue button in left bottom corner
+  User should be able to add/remove items to order
+  User should be able to see list of screens to navigate
+  Items prompts to pick a size
+
+Apps:
+  List of appitizers must be displayed
+  User should be able to customize apps 
+  Continue button in left bottom corner
+  User should be able to add/remove items to order
+  User should be able to see list of screens to navigate
+  Items prompts to pick a size
+
+Orders:
+  Items are ordered with specials and common orders at the top the the rest are in alphabetical
+  Items sorted into types of food (Sandwich, Burgers, Dessert, Etc)
+  List of orders must be displayed
+  User should be able to customize orders 
+  Continue button in left bottom corner
+  User should be able to add/remove items to order
+  User should be able to see list of screens to navigate
+  Items prompts to pick a size
+  Sides as a viewable tab
+
+Final Order:
+  User should be able to view list of menu items
+  User should be able to view list of items on order
+  User should be able to customize any item on order
+  User should be able to add/remove items to order
+  Button in bottm corner to finalize order and submit order to kitchen
+  Clear all button
+
+Add Item Pop-Up:
+  User shoudld be able to see item seleted
+  User should be able to customize item
+  User should be able to add/remove item to order
+  User should be able to adjust quantity of item
+  Multiple items are distinquished
+  User can customize one item in a list of multiple of the same without changing the other items
+  Item has pictures and list of ingredients
+
+The Dylan Special:
+  The Franky Salad (SUUUPER)
+  Mr. Beast Button (Order All)
+
+
+
+
