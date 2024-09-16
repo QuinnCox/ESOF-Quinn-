@@ -1,0 +1,38 @@
+Requirements:
+
+	Functional Requirements:
+
+Server can - 
+  Select menu items
+  Allow for customization and take out orders
+  Use UI (Easy to see buttons)
+
+Cooks can - 
+  See orders for station
+  See what has been started
+  See ticket number
+  See when items have been delayed`
+  See difference online and in house orders
+
+Checkout - 
+  Apply coupons/discounts
+  Add values of all items on ticket
+  Pay through all types of payment
+
+Behind the Scenes - 
+  Each order has a number
+  Handle multiple orders and keep in a specific order
+  Order is split between stations 
+  Keep order numbers together
+  Adaptive Queue
+
+	Non-Functional Requirements:
+
+Database of times to cook
+Customer gets order in a timely manner
+Operating system 
+
+
+
+Primary Stakeholders (Users): Employees
+Secondary Stakeholders: Restaurant Owners, Customers
